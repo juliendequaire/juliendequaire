@@ -28,7 +28,7 @@
 
 Welcome to my GitHub profile! Below is an overview of my professional experience, skills, and projects.
 
-## �‍💻 About Me
+## ‍💻 About Me
 I am a seasoned Principal Online Programmer with extensive experience in network and replication systems, particularly in game development. With a career spanning over 14 years at Ubisoft and Invoke Studios, I have developed a deep expertise in building online frameworks, replication systems, and network engines for AAA games.
 
 ---
