@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-	<a href="https://www.buymeacoffee.com/juliendequaire" target="_blank">
+	<a href="https://www.buymeacoffee.com/jdequaire" target="_blank">
 		<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
 	</a>
 </p>
